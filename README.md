@@ -1,4 +1,6 @@
 # DIO - Trilha .NET - Explorando a linguagem C#
+**O desafio proposto foi solucionado e todas as requisições descritas abaixo foram implementadas.**
+
 www.dio.me
 
 ## Desafio de projeto
